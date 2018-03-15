@@ -4,7 +4,7 @@ Atom package to run the yui compressor when you save a `.js` file.
 ## Dependencies
 * Java.
 
-To install Java, please visite [official website](https://www.java.com/download/)
+To install Java, please visit [official website](https://www.java.com/download/).
 
 ## Installation
 
