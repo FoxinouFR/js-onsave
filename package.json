@@ -1,20 +1,19 @@
 {
   "name": "js-onsave",
   "main": "./lib/js-onsave",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Run yui compressor command when you save a javascript file",
   "keywords": [
-  	"js",
-	"save",
-	"file",
-	"watch",
-	"execute"
+    "js",
+    "save",
+    "file",
+    "watch",
+    "execute"
   ],
   "repository": "https://github.com/FoxinouFR/js-onsave",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
