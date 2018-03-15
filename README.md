@@ -1,10 +1,9 @@
-# scss-onsave
+# js-onsave
 Atom package to run the yui compressor when you save a `.js` file.
 
 ## Dependencies
-* Java.
 
-To install Java, please visit [official website](https://www.java.com/download/).
+The package uses yui compressor which is a binary in Java. To install Java, please visit [official website](https://www.java.com/download/).
 
 ## Installation
 
